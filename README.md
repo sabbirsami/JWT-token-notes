@@ -119,7 +119,7 @@ sameSite: process.env.NODE_ENV === "production" ? "none" : "strict",
 
 
 
-# Sign Token using localhost
+# Sign Token using localstorage
 ## Client site --
 The code begins with a conditional statement checking if the variable email has a truthy value. In JavaScript, a truthy value is any value that is not explicitly falsy (e.g., `null, undefined, false, 0, an empty string, or NaN`). If the email is truthy, the block of code inside the if statement will be executed.
 ```JS 
