@@ -157,10 +157,18 @@ The code begins with a conditional statement checking if the variable email has 
      });
  }
 ```
+# some common interview questions related to JSON Web Tokens (JWT)
+1. **`What is JWT?`**
+-JWT stands for JSON Web Token. It is a compact, URL-safe means of representing claims to be transferred between two parties.
+2. **`How is a JWT structured?`**
+-A JWT consists of three parts: Header, Payload, and Signature.
+3. **`What is the purpose of the JWT Header?`**
+-The Header describes how the JWT is encoded and signed, including the type of token (JWT) and the signing algorithm being used.
+4. **`What are the typical use cases for JWT?`**
+-JWTs are commonly used for authentication and information exchange in web development and APIs.
+
 
 <p align="center">
-  <a href="https://sabbir-mohammad-sami.web.app"><strong>Portfolio &rarr;</strong></a>
+  <a href="https://sabbir-mohammad-sami.web.app"><strong>Portfolio &rarr;</strong></a>  <a href="https://discord.com/users/993823123122171934"><strong>Discord &rarr;</strong></a>
 </p>
-<p align="center">
-  <a href="https://discord.com/users/993823123122171934"><strong>Discord &rarr;</strong></a>
-</p>
+
